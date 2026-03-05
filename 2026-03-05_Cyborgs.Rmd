@@ -1,0 +1,11 @@
+---
+title: "towards cyborg historians? <br />ai and history in practice"
+author: "frédéric clavert -- c2dh (university of luxembourg)"
+date: "04.03.2026"
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    reveal_plugins: ["notes", "search"]
+---
+
+
